@@ -15,5 +15,7 @@
 ```$ git clone https://github.com/K-Everette123/Race-Winner.git
 ...```
 
+## How-to use this program
+
 ## License
 See [LICENSE](https://github.com/K-Everette123/Race-Winner/blob/master/LICENSE.txt)
