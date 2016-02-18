@@ -3,6 +3,9 @@
 
 ## Motivation
 
+##Prerequisites
+* [Python 3.4.4 (Windows)](https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi)
+* [Python 3.4.4 (Mac)](https://www.python.org/ftp/python/3.4.4/python-3.4.4-macosx10.6.pkg)
 
 ## Download
 [Race-Winner](https://github.com/K-Everette123/Race-Winner/archive/master.zip)
