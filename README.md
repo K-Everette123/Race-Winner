@@ -4,7 +4,7 @@
 ## Motivation
 **Race-winner** was created for an assignment in the CS 230 class at Jacksonville State University.
 
-##Prerequisites
+##Requirements
 * [Python 3.4.4 (Windows)](https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi)
 * [Python 3.4.4 (Mac)](https://www.python.org/ftp/python/3.4.4/python-3.4.4-macosx10.6.pkg)
 
