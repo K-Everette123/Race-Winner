@@ -8,7 +8,7 @@
 * [Python 3.4.4 (Mac)](https://www.python.org/ftp/python/3.4.4/python-3.4.4-macosx10.6.pkg)
 
 ## Download
-*[Race-Winner](https://github.com/K-Everette123/Race-Winner/archive/master.zip)
+* [Race-Winner](https://github.com/K-Everette123/Race-Winner/archive/master.zip)
 
 ## Usage
 ```$ git clone https://github.com/K-Everette123/Race-Winner.git
