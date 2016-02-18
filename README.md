@@ -16,6 +16,14 @@
 ...```
 
 ## How-to use this program
+To use this program complete the following steps:
+* Download and install Python 3.4.4 for whichever OS you have.
+* Download the Race_Winner repository.
+* Un-zip the file.
+* Edit distances.txt to whatever names and distances (miles or kilometers) you need. Remember to keep the same format as the original file.
+* Run Race-Winner.py
+* After the program completes it will create a file called winner.txt in the folder containing Race-Winner.py.
+* Click on winner.txt to see the runner with the longest distance (kilometers).
 
 ##Author
 Kyle Everette
