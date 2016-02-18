@@ -17,5 +17,8 @@
 
 ## How-to use this program
 
+##Author
+Kyle Everette
+
 ## License
 See [LICENSE](https://github.com/K-Everette123/Race-Winner/blob/master/LICENSE.txt)
