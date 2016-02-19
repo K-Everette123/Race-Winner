@@ -1,5 +1,7 @@
 # Race-Winner
-**Race-Winner** is a program that finds the person with the longest distance run in a text file and creates a new one to output the winner.
+**Race-Winner** is a program that finds the person with the longest distance run in the text file called distances.txt, and creates a new one called winner.txt to output the winner. 
+
+This program can take either miles or kilometers, but will convert the distances to kilometers for the winner.txt file.
 
 ## Motivation
 **Race-winner** was created for an assignment in the CS 230 class at Jacksonville State University.
