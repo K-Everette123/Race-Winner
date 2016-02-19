@@ -4,7 +4,7 @@
 This program can take either miles or kilometers, but will convert the distances to kilometers for the winner.txt file.
 
 ## Motivation
-**Race-winner** was created for an assignment in the CS 230 class at Jacksonville State University.
+**Race-winner** was created for an assignment given in the CS 230 class at Jacksonville State University.
 
 ##Requirements
 * [Python 3.4.4 (Windows)](https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi)
